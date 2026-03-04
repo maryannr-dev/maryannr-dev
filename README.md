@@ -15,18 +15,18 @@ I enjoy working on projects where strong backend systems meet clean, meaningful 
 ---
 
 ## Tech & Tools
-## Web Development
+# Web Development
 - HTML
 - CSS
 - JavaScript
 - React
-## Back-End & Databases
+# Back-End & Databases
 - Java
 - MySQL
 - Firebase
-## Mobile Development
+# Mobile Development
 - Android Development (Java)
-## Tools
+# Tools
 - Git / GitHub
 - VS Code
 - Android Studio
