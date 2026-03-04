@@ -1,35 +1,55 @@
-# Hi there, I'm Mary Ann 👋  
+# Hi there, I'm Mary 🌷
 
-🎓 I’m a Computer Science student at UNC Charlotte passionate about **Android development** and creating mobile apps that balance functionality with clean, intuitive design.  
+🎓 I'm a Computer Science student passionate about building thoughtful, well-designed software that supports real communities and everyday life.
 
-💡 Currently, I’m:  
-- Learning about **Operating Systems, AI, and Software Engineering** through my CS coursework  
-- Exploring **Android development with Java/Kotlin**  
-- Building projects that connect classroom theory to real-world app design  
+My main interests are Android app development, full-stack web development, and technology that fosters faith, connection, and intentional living.
+
+I enjoy working on projects where strong backend systems meet clean, meaningful user experiences.
+
+---
+## Currently Learning  
+- Spring Boot for backend development
+- Building scalable APIs instead of manually parsing JSON
+- Designing back-end heavy systems that support real communities
 
 ---
 
-## 🛠️ Tech & Tools
-- **Languages:** Java, Python, HTML, CSS (future: Kotlin, Dart) 
-- **Frameworks/Platforms:** Android Studio, Git/GitHub, (future: Flutter)  
-- **Other skills:** UI/UX design principles, responsive layouts  
+## Tech & Tools
+## Web Development
+- HTML
+- CSS
+- JavaScript
+- React
+## Back-End & Databases
+- Java
+- MySQL
+- Firebase
+## Mobile Development
+- Android Development (Java)
+## Tools
+- Git / GitHub
+- VS Code
+- Android Studio
+
+---
+## Current Project
+I'm currently building a backend-focused application designed to help women share prayer requests, support one another, and build stronger faith-centered communities.
+
+The project focuses on:
+- Secure user authentication
+- Community-based interaction
+- Scalable back-end architecture
+- Thoughtful and calming user interface
+
+---
+## About Me
+As a Christian, my faith influences how I approach my work. Even when projects aren't explicitly faith-based, I try to build technology that encourages care, honesty, and meaningful connection.
+
+🌸 I believe technology should make people's lives better, calmer, and more connected.
 
 ---
 
-## 🌟 Featured Projects
-- **📱 Mobile Habit Tracker (in progress)** – Console-based version built in Java, evolving into an Android app.
-- **💸 Tip Calculator** - Android app built using Java, calculates tip amounts for restaurant or taxi bills.    
-
----
-
-## 🙋 About Me
-- Faith and community are core parts of my life — I stay grounded through church, journaling, and fellowship.  
-- Outside of coding, you’ll find me walking in nature, reading, or testing new productivity routines.  
-- I’m excited to blend **technology + creativity** to design apps that make everyday life a little easier.  
-
----
-
-## 📫 Let’s Connect
+## Let’s Connect
 - [LinkedIn](#) https://www.linkedin.com/in/mary-rollins-work/
 - [Email](mailto:maryrollinswork@gmail.com)  
 
